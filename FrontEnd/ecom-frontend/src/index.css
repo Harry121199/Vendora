@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+
+  --font-display: "Montserrat","sans-serif";
+  --color-customBlue: #1C64F2;
+  --color-color1: #fdc200;
+  --color-color2: #ff2c2c;
+  --color-color3: #21ad61;
+  --color-color4: #723da6;
+  --bg-primary: #1C64F2;
+  --cplor-primary: #1C64F2;
+  --bg-secondary: #ff2c2c;
+  --bg-gradient: linear-gradient(to right, #111827, #1f2937);
+}
